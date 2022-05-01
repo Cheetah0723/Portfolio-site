@@ -1,4 +1,4 @@
-import React, { Component } from "react"
+import React, { Component } from "react";
 
 export default class Introduction extends Component {
   render() {
@@ -66,7 +66,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{ backgroundImage: "url(images/img_bg.png)" }}>
+              {/* <li style={{ backgroundImage: "url(images/img_bg.png)" }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -92,11 +92,11 @@ export default class Introduction extends Component {
                     </div>
                   </div>
                 </div>
-              </li>
+              </li> */}
             </ul>
           </div>
         </section>
       </div>
-    )
+    );
   }
 }
