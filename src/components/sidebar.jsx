@@ -1,4 +1,4 @@
-import React, { Component } from "react"
+import React, { Component } from "react";
 
 export default class Sidebar extends Component {
   render() {
@@ -25,7 +25,7 @@ export default class Sidebar extends Component {
                 <a href="index.html">Iwamoto Yuki</a>
               </h1>
               <span className="email">
-                <i className="icon-mail"></i> kimuraa.hideyo@gmail.com
+                <i className="icon-mail"></i> iyuki723@gmail.com
               </span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -131,6 +131,6 @@ export default class Sidebar extends Component {
           </aside>
         </div>
       </div>
-    )
+    );
   }
 }
