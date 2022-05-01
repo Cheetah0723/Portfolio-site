@@ -62,7 +62,7 @@ export default class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https://discord.gg/fcEkjzSb"
+                    href="https://discord.gg/t4FxYrWs"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -96,7 +96,7 @@ export default class Sidebar extends Component {
                     <i className="icon-github"></i>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="https://quidverse.com"
                     target="_blank"
@@ -104,7 +104,7 @@ export default class Sidebar extends Component {
                   >
                     <i className="icon-blogger2"></i>
                   </a>
-                </li>
+                </li> */}
               </ul>
             </nav>
             {/* <div className="colorlib-footer">
